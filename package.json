@@ -1,0 +1,14 @@
+{
+  "name": "node-http-server-setup",
+  "version": "1.0.0",
+  "description": "Know how to set up a basic server with the help of node's http module and then the benefit of setting up with the help of a server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aman Pratap Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
